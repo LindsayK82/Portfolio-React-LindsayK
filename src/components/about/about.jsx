@@ -5,8 +5,25 @@ const About = () => {
         <div className="a">
             <div className="a-left">
                 {/* <div className="a-card bg"></div> */}
-                <div className="a-card"></div>
-                    {/* <img src="" alt="" className="a.img" /> */}
+                <div className="a-card">
+                    <h1>Some Skills I Have Learned:</h1>
+                    <ul className="a-card-text">
+                        <li>HTML; CSS</li>
+                        <li>JavaScript</li>
+                        <li>Web and Third Party APIs</li>
+                        <li>NodeJS</li>
+                        <li>OOP</li>
+                        <li>Express</li>
+                        <li>SQL</li>
+                        <li>ORM</li>
+                        <li>MVC</li>
+                        <li>CS</li>
+                        <li>NoSQL</li>
+                        <li>State</li>
+                        <li>MERN</li>
+                    </ul>
+                </div>
+                {/* <img src="" alt="" className="a.img" /> */}
             </div>
             <div className="a-right">
                 <h1 className="a-title">About Me</h1>

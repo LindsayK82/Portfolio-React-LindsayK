@@ -1,8 +1,8 @@
 export const projects = [
     {
         id: 1,
-        img: "",
-        link: "",
+        img: "/img/Astrology-Project.png",
+        link: "https://lindsayk82.github.io/Group-Collab-One/",
     },
     {
         id: 2,

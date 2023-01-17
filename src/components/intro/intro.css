@@ -26,8 +26,8 @@
 }
 
 .i-intro {
-    font-size: 30px;
-    font-weight: 300;
+    font-size: 100px;
+    font-weight: bold;
 }
 
 .i-name {
@@ -63,6 +63,10 @@
 
 }
 
+.i-desc {
+    font-size: larger;
+    font-weight: 600;
+}
 
 .i-title-item {
     height: 50px;
@@ -88,6 +92,7 @@
     position: absolute;
     top: 0;
     right: 0;
-
 }
+
+
 

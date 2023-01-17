@@ -1,7 +1,7 @@
 // import Portfolio from "../portfolio/portfolio"
 import "./portfolioList.css";
 import Portfolio from '../portfolio/Portfolio';
-import {projects} from '../../data';
+import { projects } from '../../data';
 
 const PortfolioList = () => {
     return (

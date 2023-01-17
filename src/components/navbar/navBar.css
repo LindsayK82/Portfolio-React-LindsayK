@@ -1,0 +1,10 @@
+.n {
+    background-color: #FFCAD4;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+button {
+    margin: 3px;
+}

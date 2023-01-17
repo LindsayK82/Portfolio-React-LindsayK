@@ -1,4 +1,4 @@
-import "./portfolio.css"
+import "./portfolio.css";
 
 const Portfolio = ({img, link}) => {
     return (

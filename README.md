@@ -21,9 +21,11 @@ To run the app from the backend:
 -run command npm install
 -run command npm start
 
+The link is available through GitHub for the running page, here: 
+
 ## Usage
 
-The site is built to be a one page scrolling site. Starting at the top is the introduction, the next scroll brings you to the About Me, then the Portfolio links, and finally a contact page that sends a contact to my personal email.
+To navigate through the pages, there is a navbar underneath the intro. It will take you to the Aboiut Me section, the Portfolio, or the Contact Me page.
 
 ## Credits
 

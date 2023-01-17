@@ -2,16 +2,23 @@ import Intro from "./components/intro/Intro";
 import About from "./components/about/about";
 import PortfolioList from './components/portfolioList/PortfolioList';
 import Contact from './components/contact/Contact';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import NavBar from "./components/navbar/NavBar";
 
 const App = () => {
   return <div>
     <Intro />
-    <div><About />
-      <div><PortfolioList />
-        <div><Contact />
-        </div>
-      </div>
-    </div>
+    <Router>
+    <NavBar />
+
+  <Routes>
+    
+    <Route path="/" element={<About/>}/>
+    <Route path="/portfolio" element={<PortfolioList/>}/>
+    <Route path="/contact" element={<Contact />}/>
+  </Routes>
+  </Router>
+  {/* Add footer here */}
   </div>;
 };
 
