@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React-LindsayK/static/css/main.83452fea.css",
+    "main.js": "/Portfolio-React-LindsayK/static/js/main.febacb4a.js",
+    "static/media/Me2.jpg": "/Portfolio-React-LindsayK/static/media/Me2.a411cfd05f51d453e0e7.jpg",
+    "index.html": "/Portfolio-React-LindsayK/index.html",
+    "main.83452fea.css.map": "/Portfolio-React-LindsayK/static/css/main.83452fea.css.map",
+    "main.febacb4a.js.map": "/Portfolio-React-LindsayK/static/js/main.febacb4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83452fea.css",
+    "static/js/main.febacb4a.js"
+  ]
+}
