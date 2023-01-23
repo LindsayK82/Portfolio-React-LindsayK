@@ -6,8 +6,8 @@ export const projects = [
     },
     {
         id: 2,
-        img: "",
-        link: "",
+        img: "../img/MisogiProject.png",
+        link: "https://misogi.herokuapp.com/",
     },
     {
         id: 3,
